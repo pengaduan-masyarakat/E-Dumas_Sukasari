@@ -40,3 +40,8 @@
     margin-top: 1em;
     margin-bottom: 6em;
   }
+
+  .is-active {
+    background-color: coral; /* Ganti ini dengan warna latar belakang yang Anda inginkan */
+    /* Anda juga bisa menambahkan properti CSS lainnya seperti padding, border-radius, dll. */
+}
